@@ -28,7 +28,7 @@ A premium, modern, and fully responsive luxury salon website designed to deliver
 
 # ✨ About the Project
 
-**She & Shine** is a premium salon and med spa website developed as part of my **Future Interns Full Stack Web Development Internship (Task 03)**.
+**She & Shine** is a premium salon and med spa website.
 
 The project is designed to provide a luxurious online presence for salons by combining elegant UI design with smooth user interactions. It allows customers to explore services, view pricing, search treatments, browse transformation galleries, and request appointments—all through a modern responsive interface.
 
