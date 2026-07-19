@@ -17,7 +17,7 @@ A premium, modern, and fully responsive luxury salon website designed to deliver
 ---
 
 ### 🌐 Live Demo
-🔗 **https://your-live-demo-link.com**
+🔗 **(https://jessicabhupathi.github.io/FUTURE_FS_03/)**
 
 ### 📂 GitHub Repository
 🔗 **https://github.com/JessicaBhupathi/FUTURE_FS_03**
